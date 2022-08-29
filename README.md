@@ -1,2 +1,2 @@
 # docker-project
-this is a docker project
+this is a docker workflow
